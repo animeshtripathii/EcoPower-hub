@@ -121,7 +121,4 @@ chmod 755 images
 ---
 
 
-> Made with ❤️ for a greener and sustainable India 🇮🇳
-EOF
 
-echo "✅ README.md has been created successfully."
