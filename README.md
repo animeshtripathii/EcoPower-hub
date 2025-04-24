@@ -1,4 +1,4 @@
-# 🌞🌬️ Solar & Wind Energy Availability Portal
+# 🌞🌬️EcoPower-Hub
 
 A modern, user-friendly web application that helps explore solar and wind energy availability across India, recommends ideal locations based on user preferences, and estimates renewable energy installation costs.
 
